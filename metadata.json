@@ -1,0 +1,6 @@
+{
+  "name": "HotelPro - Hotel Booking and Management System",
+  "description": "Full-stack MERN hotel booking and management system featuring guest reservations, staff check-in/out, housekeeping, manager inventory, and super admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
